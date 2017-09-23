@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">App_Clase_2_ESPAÑOL</string>
+    <string name="textView">Ventana Principal</string>
+    <string name="textView2">Texto Numero 2</string>
+    <string name="textView3">Texto Numero 1</string>
+    <string name="textView4">Caja de Dialogo</string>
+    <string name="button">Crear Nueva Actividad </string>
+    <string name="textView5">Actividad 2</string>
+    <string name="textView6">Cuadro de texto B</string>
+    <string name="textView7">Cuadro de texto A</string>
+    <string name="button2">Cerrar Activity </string>
+</resources>

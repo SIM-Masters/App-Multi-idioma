@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">App_Class_2_ENGLISH</string>
+    <string name="textView">Principal Window</string>
+    <string name="textView2">Text Number 2</string>
+    <string name="textView3">Text Number 1</string>
+    <string name="textView4">Dialog Box</string>
+    <string name="button">Create New Activity </string>
+    <string name="textView5">Activity 2</string>
+    <string name="textView6">Text Box B</string>
+    <string name="textView7">Text Box A</string>
+    <string name="button2">Close Activity </string>
+</resources>
